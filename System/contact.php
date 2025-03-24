@@ -234,24 +234,13 @@ include 'constants/check-login.php';
 							<ul class="address-list">
 								<li>
 										<h5>Address</h5>
-										<address> Dattwad, <br> Marathi School <br></address>
+										<address> Ichalkaranji near ASC College </address>
 								</li>
 								<li>
-										<h5>Email</h5><a href="mailto:namupatl3441@gmail.com">namupatl3441@gmail.com</a>
+										<h5>Email</h5><a href="mailto:satishnarwade2022@dkasc.ac.in">satishnarwade2022@dkasc.ac.in</a>
 								</li>
 								<li>
-										<h5>Phone Number</h5><a href="tel:+91 9764711265">9764711265</a>
-								</li>
-
-								<li>
-										<h5>Social Networks</h5>
-										<div class="contact-social">
-										
-											<a href="<?php echo "$fb"; ?>" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
-											<a href="<?php echo "$tw"; ?>" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
-											<a href="<?php echo "$ig"; ?>" data-toggle="tooltip" data-placement="top" title="Instagram"><i class="fa fa-instagram"></i></a>
-										
-										</div>
+										<h5>Phone Number</h5><a href="tel:9975023083">+91 9975023083</a>
 								</li>
 									
 							</ul>
